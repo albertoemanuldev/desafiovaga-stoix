@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/desafiovaga-stoix/static/css/main.8a541a45.css",
+    "main.js": "/desafiovaga-stoix/static/js/main.f45458ef.js",
+    "index.html": "/desafiovaga-stoix/index.html",
+    "main.8a541a45.css.map": "/desafiovaga-stoix/static/css/main.8a541a45.css.map",
+    "main.f45458ef.js.map": "/desafiovaga-stoix/static/js/main.f45458ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a541a45.css",
+    "static/js/main.f45458ef.js"
+  ]
+}
