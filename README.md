@@ -150,7 +150,6 @@ curl http://localhost:8000/api/tasks
 - Token é renovado automaticamente quando necessário
 
 ### Validação de Dados
-- Sanitização de inputs
 - Validação de tipos e tamanhos
 - Prevenção de SQL Injection via PDO
 
