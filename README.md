@@ -1,5 +1,5 @@
 # Sistema de Gerenciamento de Tarefas
-Desafio para vaga de Desenvolvedor Full-Stack na Stoix
+# Desafio para vaga de Desenvolvedor Full-Stack na Stoix
 Um sistema completo de gerenciamento de tarefas desenvolvido com PHP (backend) e React/TypeScript (frontend), seguindo o padrão MVC e implementando autenticação CSRF.
 
 ## 🚀 Funcionalidades
