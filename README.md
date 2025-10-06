@@ -233,4 +233,3 @@ Desenvolvido como desafio prático para demonstrar habilidades em:
 ---
 
 **Status**: ✅ Projeto completo e funcional
-**Última atualização**: Dezembro 2024
